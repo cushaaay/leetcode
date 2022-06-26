@@ -4,5 +4,5 @@ var minDepth = function(root) {
   let left = minDepth(root.left);
   let right = minDepth(root.right);
   
-  return (Math.min(left, right) || Math.max(left, right)) + 1;
+  return (left === 0 || right === 0) ? left + right + 1 : Math.min(left, right) + 1;
 };
