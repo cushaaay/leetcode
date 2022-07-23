@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[easy]|-|[JavaScript(https://github.com/cushaaay/leetcode/tree/main/solutions/0225)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0219)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0217)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0206)|
