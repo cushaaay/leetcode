@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[easy|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0226)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0225)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0219)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0217)|
