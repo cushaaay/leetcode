@@ -57,6 +57,7 @@
 |14|[Longest Common Prefix](https://cushaaay.ru/leetcode.html)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0014)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0013)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0009)|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0005)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0003)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0002)|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0001)|
