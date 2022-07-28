@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0235)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0234)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0232)|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0231)|
