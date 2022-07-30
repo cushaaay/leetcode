@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0242)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0237)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0235)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0234)|
