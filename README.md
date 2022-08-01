@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0268)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0263)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0258)|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0257)|
