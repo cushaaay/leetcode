@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0283)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0278)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0268)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0263)|
