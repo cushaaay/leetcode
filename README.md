@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0292)|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0290)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0283)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0278)|
