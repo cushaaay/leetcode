@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0303)|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0292)|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0290)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0283)|
