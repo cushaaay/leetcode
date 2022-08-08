@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0338)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0326)|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0303)|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0292)|
