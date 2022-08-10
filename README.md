@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0344)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0342)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0338)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0326)|
