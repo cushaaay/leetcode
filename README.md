@@ -8,7 +8,8 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
-|345|[Reverse Vowels of a String ](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0345)|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0349)|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0345)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0344)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0342)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0338)|
