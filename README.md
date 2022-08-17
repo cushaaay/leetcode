@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0415)|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0414)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0412)|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0409)|
