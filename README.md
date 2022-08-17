@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0404)|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0401)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0392)|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0301-0400/0389)|
