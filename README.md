@@ -8,7 +8,8 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
-|434|[Number of Segments in a String ](https://leetcode.com/problems/number-of-segments-in-a-string/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0434)|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0441)|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0434)|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0415)|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0414)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0412)|
