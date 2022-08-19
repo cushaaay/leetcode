@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0455)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0448)|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0441)|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0434)|
