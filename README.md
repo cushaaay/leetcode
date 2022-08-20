@@ -9,7 +9,7 @@
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0463)|
-|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0491)|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0461)|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0459)|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0455)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0448)|
