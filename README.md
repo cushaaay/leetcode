@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0492)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0485)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0482)|
 |476|[Number Complem](https://leetcode.com/problems/number-complement/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0476)|
