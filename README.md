@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0482)|
 |476|[Number Complem](https://leetcode.com/problems/number-complement/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0476)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0463)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0461)|
