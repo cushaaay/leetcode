@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0496)|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0495)|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0492)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0401-0500/0485)|
