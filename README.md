@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0520)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0509)|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0507)|
 |504|[Base 7](https://leetcode.com/problems/base-7/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0504)|
