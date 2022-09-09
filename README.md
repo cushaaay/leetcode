@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0530)|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0521)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0520)|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0509)|
