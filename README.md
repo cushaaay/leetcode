@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0543)|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0541)|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0530)|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0521)|
