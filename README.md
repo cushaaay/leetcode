@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|561|[Array Partition](https://leetcode.com/problems/array-partition/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0561)|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0559)|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0557)|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0551)|
