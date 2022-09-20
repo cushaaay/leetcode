@@ -111,7 +111,7 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0058)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0053)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0035)|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0028)|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0028)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0027)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0026)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0021)|
