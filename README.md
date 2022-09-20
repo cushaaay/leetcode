@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0563)|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0561)|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0559)|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0557)|
