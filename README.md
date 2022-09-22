@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0572)|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0566)|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0563)|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0561)|
