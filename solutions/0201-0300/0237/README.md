@@ -1,4 +1,4 @@
-**(№ 237) Delete Node in a Linked List [easy]**
+**(№ 237) Delete Node in a Linked List [medium]**
 
 Дана ссылка на узел в связанном списке. Нужно этот узел удалить из списка.
 
