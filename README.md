@@ -119,7 +119,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0026)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0021)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0020)|
-|14|[Longest Common Prefix](https://cushaaay.ru/leetcode.html)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0014)|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0014)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0013)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0009)|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0006)|
