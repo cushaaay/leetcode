@@ -31,4 +31,4 @@ var removeElements = function(head, val) {
 
 ![](https://cushaaay.ru/leetcode/0203.png)
 
-**Ссылка на задачу:** https://leetcode.com/problems/remove-linked-list-elements/submissions/
+**Ссылка на задачу:** https://leetcode.com/problems/remove-linked-list-elements/
