@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0801-0900/0876)|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0575)|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0572)|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0566)|
