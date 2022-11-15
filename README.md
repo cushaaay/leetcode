@@ -8,6 +8,7 @@
 
 | № | Title | Difficulty | Video | Solution |
 | - | ----- | ---------- | ----- | -------- |
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/1201-1300/1290)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0801-0900/0876)|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0575)|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[easy]|-|[Python](https://github.com/cushaaay/leetcode/tree/main/solutions/0501-0600/0572)|
