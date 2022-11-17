@@ -119,6 +119,7 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0028)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0027)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0026)|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[hard]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0023)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0021)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0020)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0019)|
