@@ -113,6 +113,7 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0069)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0067)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0066)|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0061)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0058)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0053)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0001-0100/0035)|
