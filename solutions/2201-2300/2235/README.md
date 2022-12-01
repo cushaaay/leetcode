@@ -14,4 +14,4 @@ var sum = function(num1, num2) {
 
 Складываем два числа и сразу возвращаем.
 
-**Ссылка на задачу:** https://leetcode.com/problems/add-two-integers/description/
+**Ссылка на задачу:** https://leetcode.com/problems/add-two-integers/
