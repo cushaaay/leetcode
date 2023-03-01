@@ -9,6 +9,7 @@
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/2201-2300/2235)|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/1201-1300/1290)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0801-0900/0876)|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0682)|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0680)|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0645)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0617)|
