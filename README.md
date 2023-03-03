@@ -10,6 +10,7 @@
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/1201-1300/1290)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0801-0900/0876)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0724)|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0704)|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0682)|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0680)|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0645)|
