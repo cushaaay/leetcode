@@ -72,6 +72,7 @@ var minCostClimbingStairs = function(cost) {
   // Поэтому возвращаем стоимость пути к той ступени, что дешевле.
   return Math.min(first, second);
 };
+```
 
 
 **Ссылка на задачу:** https://leetcode.com/problems/min-cost-climbing-stairs/
