@@ -8,6 +8,7 @@
 | - | ----- | ---------- | ----- | -------- |
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/2201-2300/2235)|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/1201-1300/1290)|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0901-1000/0953)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0801-0900/0876)|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0746)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0724)|
