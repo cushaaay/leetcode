@@ -12,6 +12,7 @@
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0901-1000/0953)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0801-0900/0876)|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0746)|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0728)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0724)|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0704)|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0682)|
