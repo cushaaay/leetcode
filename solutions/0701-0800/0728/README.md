@@ -62,5 +62,6 @@ var selfDividingNumbers = function(left, right) {
   // (7) В конце просто возвращаем массив подходящих чисел
   return ans;
 };
+```
 
 **Ссылка на задачу:** https://leetcode.com/problems/self-dividing-numbers/
