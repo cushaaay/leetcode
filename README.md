@@ -18,6 +18,7 @@
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0682)|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0680)|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0645)|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0628)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0617)|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0606)|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0605)|
