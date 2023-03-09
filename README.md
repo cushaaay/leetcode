@@ -11,6 +11,7 @@
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0901-1000/0977)|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0901-1000/0953)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0801-0900/0876)|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0771)|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0746)|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0728)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0724)|
