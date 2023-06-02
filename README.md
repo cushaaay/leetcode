@@ -16,6 +16,7 @@
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0728)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0724)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0709)|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0705)|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0701-0800/0704)|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0682)|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0601-0700/0680)|
