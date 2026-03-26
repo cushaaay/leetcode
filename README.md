@@ -84,7 +84,7 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0263)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0258)|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0257)|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0242)|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[easy]|[video](https://www.youtube.com/watch?v=imhIJ9On42c&t)|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0242)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0237)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[medium]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0235)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0234)|
