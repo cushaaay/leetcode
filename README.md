@@ -101,7 +101,7 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0201-0300/0202)|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[easy]|-|[Bash](https://github.com/cushaaay/leetcode/tree/main/solutions/0101-0200/0193)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[easy]|[video](https://www.youtube.com/watch?v=xszUgqEeF2U)|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0101-0200/0191)|
-|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0101-0200/0190)|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[easy]|[video](https://www.youtube.com/watch?v=2zm6kcopY_c&t)|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0101-0200/0190)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0101-0200/0171)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0101-0200/0169)|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[easy]|-|[JavaScript](https://github.com/cushaaay/leetcode/tree/main/solutions/0101-0200/0168)|
